@@ -4,7 +4,7 @@
 
 # Aʙᴏᴜᴛ Mᴇ
 
-I'm an **M.S student** @ **S**eoul **N**ational **U**niversity (SNU), researching on **Computer Architecture**.
+I'm an **M.S. student** @ **S**eoul **N**ational **U**niversity (SNU), researching on **Computer Architecture**.
 
 # Pᴜʙʟɪᴄᴀᴛɪᴏɴꜱ
 
