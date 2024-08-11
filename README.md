@@ -2,15 +2,15 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header)
 
-## Aʙᴏᴜᴛ Mᴇ
+# Aʙᴏᴜᴛ Mᴇ
 
 I'm an **M.S student** @ **S**eoul **N**ational **U**niversity (SNU), researching on **Computer Architecture**.
 
-## Pᴜʙʟɪᴄᴀᴛɪᴏɴꜱ
+# Pᴜʙʟɪᴄᴀᴛɪᴏɴꜱ
 
 **Cheddar** : A Swift Fully Homomorphic Encryption Library for CUDA GPUs <a href="https://arxiv.org/pdf/2407.13055" target="_blank"><img src="./pdf.png" width=20 height=20 /></a>
 
-## Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
+# Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
   
   
 <a href="mailto:wonseok.choi@snu.ac.kr" target="_blank">
