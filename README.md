@@ -8,8 +8,7 @@ I'm an **M.S student** @ **S**eoul **N**ational **U**niversity (SNU), researchin
 
 ## Pᴜʙʟɪᴄᴀᴛɪᴏɴꜱ
 
-**Cheddar** : A Swift Fully Homomorphic Encryption Library for CUDA GPUs <a href="https://arxiv.org/pdf/2407.13055"><img src="./pdf.png" /></a>
-
+**Cheddar** : A Swift Fully Homomorphic Encryption Library for CUDA GPUs <a href="https://arxiv.org/pdf/2407.13055" target="_blank"><img src="./pdf.png" width=20 height=20 /></a>
 
 ## Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
   
