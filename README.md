@@ -8,7 +8,7 @@
 <img src="./gmail.png" width=50 height=50 alt="wonseok.choi@snu.ac.kr" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/choiwons" target="_blank">
+<a href="https://github.com/choiwons" target="_blank">
 <img src="./github.png" width=50 height=50 alt="choiwons" style="margin-bottom: 5px;" />
 </a>
 
