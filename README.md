@@ -1,8 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
-</p>
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header)
+
+## Aʙᴏᴜᴛ Mᴇ
+
+I'm an **M.S student** @ **S**eoul **N**ational **U**niversity (SNU), researching on **Computer Architecture**.
+
+## Pᴜʙʟɪᴄᴀᴛɪᴏɴꜱ
+
+**Cheddar** : A Swift Fully Homomorphic Encryption Library for CUDA GPUs <a href="https://arxiv.org/pdf/2407.13055"><img src="./pdf.png" /></a>
+
+
+## Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
+  
   
 <a href="mailto:wonseok.choi@snu.ac.kr" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="wonseok.choi@snu.ac.kr" style="margin-bottom: 5px;" />
@@ -23,11 +33,6 @@
 <a href="https://scholar.google.com/citations?user=udInxi0AAAAJ" target="_blank">
 <img src="./google-scholar.png" width=50 height=50 alt="google_scholar" style="margin-bottom: 5px;" />
 </a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer)
 </div>
-<br/>
-
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
