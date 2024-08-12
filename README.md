@@ -2,7 +2,7 @@
   
 
 <div>
-  <img align="center" width="30%" src="/blog_favicon_transparent.png">
+  <img align="center" width="25%" src="/blog_favicon_transparent.png">
 </div>
 
 # Aʙᴏᴜᴛ Mᴇ
