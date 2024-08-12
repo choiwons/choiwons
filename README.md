@@ -1,9 +1,9 @@
 <div align="center">
-  
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
 <div>
   <img align="center" width="25%" src="/blog_favicon_transparent.png">
 </div>
+
 
 # Aʙᴏᴜᴛ Mᴇ
 
