@@ -2,6 +2,10 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20World!&fontColor=c385da&animation=fadeIn)
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 # Aʙᴏᴜᴛ Mᴇ
 
 I'm an **M.S. student** @ **S**eoul **N**ational **U**niversity (**SNU**), researching on **Computer Architecture**.
