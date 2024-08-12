@@ -1,9 +1,8 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20World!&fontColor=c385da&animation=fadeIn)
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="center" width="30%" src="/blog_favicon_transparent.png">
 </div>
 
 # Aʙᴏᴜᴛ Mᴇ
