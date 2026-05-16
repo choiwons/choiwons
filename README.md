@@ -17,20 +17,21 @@ My research focuses on GPU and architecture support for privacy-preserving compu
 
 <h2 align="center">Publications</h2>
 
-| Year | Venue | Title |
-| --- | --- | --- |
-| 2026 | IEEE Micro | A Five-Year Journey to Accelerate Homomorphic Encryption with GPUs, Demonstrated by Sub-25ms CNN Inference |
-| 2026 | ISPASS | [Theodosian: A Deep Dive into Memory-Hierarchy-Centric FHE Acceleration](https://arxiv.org/abs/2512.18345) |
-| 2026 | ICS | [GPIR: Enabling Practical Private Information Retrieval with GPUs](https://arxiv.org/abs/2604.04696) |
-| 2026 | HPCA | [IVE: An Accelerator for Single-Server Private Information Retrieval Using Versatile Processing Elements](https://arxiv.org/pdf/2407.13055) |
-| 2026 | ASPLOS | [Cheddar: A Swift Fully Homomorphic Encryption Library for CUDA GPUs](https://arxiv.org/pdf/2407.13055) |
-| 2025 | HPCA | [Anaheim: Architecture and Algorithms for Processing Fully Homomorphic Encryption in Memory](https://ieeexplore.ieee.org/abstract/document/10946801) |
+- **A Five-Year Journey to Accelerate Homomorphic Encryption with GPUs, Demonstrated by Sub-25ms CNN Inference** | IEEE Micro, 2026
+
+- **[Theodosian: A Deep Dive into Memory-Hierarchy-Centric FHE Acceleration](https://arxiv.org/abs/2512.18345)** | ISPASS 2026
+
+- **[GPIR: Enabling Practical Private Information Retrieval with GPUs](https://arxiv.org/abs/2604.04696)** | ICS 2026
+
+- **[IVE: An Accelerator for Single-Server Private Information Retrieval Using Versatile Processing Elements](https://arxiv.org/pdf/2407.13055)** | HPCA 2026
+
+- **[Cheddar: A Swift Fully Homomorphic Encryption Library for CUDA GPUs](https://arxiv.org/pdf/2407.13055)** | ASPLOS 2026
+
+- **[Anaheim: Architecture and Algorithms for Processing Fully Homomorphic Encryption in Memory](https://ieeexplore.ieee.org/abstract/document/10946801)** | HPCA 2025
 
 <h2 align="center">Posters</h2>
 
-| Year | Venue | Title |
-| --- | --- | --- |
-| 2025 | NVIDIA GTC | [GPU-Driven FHE: Real-Time Private AI Inference Outperforming Custom ASIC](https://www.nvidia.com/gtc/posters/?search=homomorphic#/session/1729732734207001PjVa) |
+- **[GPU-Driven FHE: Real-Time Private AI Inference Outperforming Custom ASIC](https://www.nvidia.com/gtc/posters/?search=homomorphic#/session/1729732734207001PjVa)** | NVIDIA GTC 2025, San Jose, CA
 
 <h2 align="center">Software Projects</h2>
 
